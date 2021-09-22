@@ -46,8 +46,11 @@ exit -> Fecha a sessão atual
 *****************************
 git init
 git status
-git add file.tex
 
+git add file.tex
+git commit -m 'mensagem'
+
+git log
 
 ************************
 ** ** ** TITULO ** ** **
